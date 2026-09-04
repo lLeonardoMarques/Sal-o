@@ -5,7 +5,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/Salao/', // <-- NOME DO REPOSITÓRIO
+    base: '/Sal-o/', // <-- CORRIGIDO: agora com hífen
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
