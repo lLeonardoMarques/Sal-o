@@ -1,0 +1,6 @@
+{
+  "name": "Toque da Beleza - Salão de Estética",
+  "description": "Site e sistema de agendamento online para o salão Toque da Beleza, inspirado no IT Salão com confirmações integradas via WhatsApp e experiência mobile fluida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
